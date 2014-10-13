@@ -1,0 +1,27 @@
+{
+  "name": "facet-commerce",
+  "version": "0.0.1",
+  "description": "Node.js ecommerce API layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facet/commerce.git"
+  },
+  "keywords": [
+    "facet",
+    "facet-commerce",
+    "node ecommerce"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/facet/commerce/issues"
+  },
+  "homepage": "https://github.com/facet/commerce",
+  "dependencies": {
+    "facet-core": "^0.1.0"
+  }
+}
