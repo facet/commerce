@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/facet/commerce",
   "dependencies": {
-    "facet-core": "^0.1.0"
+    "facet-core": "^0.1.0",
+    "underscore": "^1.7.0"
   }
 }
